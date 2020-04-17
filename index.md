@@ -26,4 +26,13 @@ Xian-Feng Han is currently a lecturer at College of Computer and Information Sci
 
 ### Services
 
+#### Reviewer for journals:
+- IEEE Transactions on Image Processing
+- IEEE Geoscience and Remote Sensing Letters
+- Artificial Intelligence Review
+- Signal Processing: Image Communication
+- Machine Vision and Applications
+- IET Image Processing
+- Signal Image and Video Processing
+
 ### Awards & Honors
