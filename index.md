@@ -19,6 +19,7 @@ Xian-Feng Han is currently a lecturer at College of Computer and Information Sci
 2018:.
 1. **Xian-Feng Han**, Jesse S. Jin, Ming-Jie Wang, et al. Guided 3D point cloud filtering. Multimedia Tools and Applications, 2018, 77(13): 17397-17411.
 2. **Xian-Feng Han**, Jesse S. Jin, Ming-Jie Wang, et al. Iterative guidance normal filter for point cloud. Multimedia Tools and Applications, 2018, 77(13): 16887-16902.
+
 2017:
 1.  **Xian-Feng Han**, Jesse S. Jin, Ming-Jie Wang, et al. A review of algorithms for filtering the 3D point cloud. Signal Processing: Image Communication, 2017, 57: 103-112.
 2. **Xian-Feng Han**, Jesse S. Jin, Ming-Jie Wang, et al. Video fire detection based on gaussian mixture model and multi-color features. Signal, Image and Video Processing, 2017, 11(8): 1419-1425.
